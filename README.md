@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python example code for the ACM/IEEE TinyML Contest at ICCAD 2022
 
 ## What's in this repository?
@@ -74,5 +73,4 @@ Once we obtain the onnx model file, we could deploy the model on the board by fo
 
 
 ## How do I obtain the scoring?
->>>>>>> 21cdb4e90d75aeb04d53781e1c15b1eefa613a24
 After training your model and obtaining test outputs with above commands, you could evaluate the scores of your models using the scoring function specified in [TinyML Contest 2022 evaluation](https://tinymlcontest.github.io/TinyML-Design-Contest/Problems.html). 

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 labels,Rhythm
 AFb,Atrial Fibrillation
 AFt,Atrial Flutter
@@ -8,14 +7,4 @@ VFb,Ventricular Fibrillation
 VFt,Ventricular Flutter
 VPD,Ventricular Premature Depolarizations
 VT,Ventricular Tachycardia
-=======
-labels,Rhythm
-AFb,Atrial Fibrillation
-AFt,Atrial Flutter
-SR,Sinus Rhythm
-SVT,Supraventricular Tachycardia
-VFb,Ventricular Fibrillation
-VFt,Ventricular Flutter
-VPD,Ventricular Premature Depolarizations
-VT,Ventricular Tachycardia
->>>>>>> 21cdb4e90d75aeb04d53781e1c15b1eefa613a24
+

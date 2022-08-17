@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Start with STM32CubeAI
 
   ### Environment
@@ -261,6 +260,5 @@
 
  
  ## Metrics
- 
->>>>>>> 21cdb4e90d75aeb04d53781e1c15b1eefa613a24
+
  Two metrics, **Used Flash** and **duration**, will be extracted as the metrics to report the final scoring. 
