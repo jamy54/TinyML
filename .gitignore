@@ -3,3 +3,4 @@ tinyml_contest_data_training/
 file_to_ignore
 venv/
 .idea/
+records
